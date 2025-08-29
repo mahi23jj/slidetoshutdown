@@ -1,1 +1,2 @@
 # slidetoshutdown
+located at :%appdata%
